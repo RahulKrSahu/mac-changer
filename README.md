@@ -6,7 +6,7 @@ Usage
 Clone this repository:
 
 Bash
-git clone https://github.com/<your-username>/mac-changer
+git clone https://github.com/rahulkrsahu/mac-changer
 Use code with caution.
 Navigate to the project directory:
 
